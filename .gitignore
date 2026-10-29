@@ -1,0 +1,10 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+# Personal data never belongs in the repo
+*.db
+*.db-*
+/data/
+/.demo/

@@ -1,0 +1,11 @@
+Transaction Date,Post Date,Description,Category,Type,Amount,Memo
+10/01/2026,10/02/2026,STARBUCKS STORE 12345,Food & Drink,Sale,-6.45,
+10/01/2026,10/02/2026,STARBUCKS STORE 12345,Food & Drink,Sale,-6.45,
+10/03/2026,10/04/2026,WHOLEFDS SFO 10234,Groceries,Sale,-84.12,
+10/04/2026,10/05/2026,UBER   *EATS,Food & Drink,Sale,-32.10,
+10/04/2026,10/05/2026,UBER   *TRIP,Travel,Sale,-18.75,
+10/05/2026,10/06/2026,NETFLIX.COM,Entertainment,Sale,-15.49,
+10/06/2026,10/07/2026,AMZN Mktp US*2K4AB12C3,Shopping,Sale,-45.99,
+10/08/2026,10/08/2026,AMZN Mktp US*2K4AB12C3,Shopping,Return,45.99,
+10/02/2026,10/02/2026,Payment Thank You-Mobile,,Payment,1250.40,
+10/09/2026,10/10/2026,LOCAL BOOKSHOP,Shopping,Sale,-22.00,

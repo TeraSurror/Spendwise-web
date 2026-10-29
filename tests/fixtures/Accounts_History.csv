@@ -1,0 +1,15 @@
+
+
+Brokerage
+
+Run Date,Action,Symbol,Description,Type,Quantity,Price ($),Commission ($),Fees ($),Accrued Interest ($),Amount ($),Settlement Date
+10/06/2026,"ELECTRONIC FUNDS TRANSFER RECEIVED (Cash)", ,"No Description",Cash,0,,,,,1000,
+10/06/2026,"YOU BOUGHT VANGUARD TOTAL STOCK MARKET ETF (VTI) (Cash)",VTI,"VANGUARD TOTAL STOCK MARKET ETF",Cash,3,290.5,,,,-871.5,10/07/2026
+10/15/2026,"DIVIDEND RECEIVED VANGUARD TOTAL STOCK MARKET ETF (VTI) (Cash)",VTI,"VANGUARD TOTAL STOCK MARKET ETF",Cash,0,,,,,4.12,
+10/20/2026,"ELECTRONIC FUNDS TRANSFER PAID (Cash)", ,"No Description",Cash,0,,,,,-200,
+
+
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution."
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917"
+"Date downloaded 10/28/2026 4:01 pm"

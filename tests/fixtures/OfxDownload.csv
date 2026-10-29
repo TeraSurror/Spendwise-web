@@ -1,0 +1,11 @@
+Account Number,Investment Name,Symbol,Shares,Share Price,Total Value,
+55511122,VANGUARD FEDERAL MONEY MARKET FUND,VMFXX,120.5,1,120.5,
+55511122,VANGUARD TOTAL STOCK MARKET ETF,VTI,10,290.5,2905,
+
+
+
+Account Number,Trade Date,Settlement Date,Transaction Type,Transaction Description,Investment Name,Symbol,Shares,Share Price,Principal Amount,Commission Fees,Net Amount,Accrued Interest,Account Type,
+55511122,2026-10-01,2026-10-01,Funds Received,Funds received via Electronic bank transfer,VANGUARD FEDERAL MONEY MARKET FUND,VMFXX,0,1,750,0,750,0,CASH,
+55511122,2026-10-02,2026-10-03,Buy,Buy,VANGUARD TOTAL STOCK MARKET ETF,VTI,2,290.5,-581,0,-581,0,CASH,
+55511122,2026-10-02,2026-10-03,Sweep out,Sweep Out Of Settlement Fund,VANGUARD FEDERAL MONEY MARKET FUND,VMFXX,-581,1,0,0,0,0,CASH,
+55511122,2026-10-25,2026-10-25,Dividend,Dividend Received,VANGUARD TOTAL STOCK MARKET ETF,VTI,0,0,3.4,0,3.4,0,CASH,

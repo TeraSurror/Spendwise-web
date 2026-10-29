@@ -1,0 +1,7 @@
+"Transactions  for account Individual ...987 as of 10/28/2026 16:00:00 ET"
+"Date","Action","Symbol","Description","Quantity","Price","Fees & Comm","Amount"
+"10/02/2026","MoneyLink Transfer","","Tfr JPMORGAN CHASE BA, J DOE","","","","$2,500.00"
+"10/03/2026 as of 10/02/2026","Buy","SWTSX","SCHWAB TOTAL STOCK MARKET INDEX","20","$98.50","","-$1,970.00"
+"10/15/2026","Qualified Dividend","SWTSX","SCHWAB TOTAL STOCK MARKET INDEX","","","","$12.30"
+"10/22/2026","MoneyLink Transfer","","Tfr JPMORGAN CHASE BA, J DOE","","","","-$300.00"
+"Transactions Total","","","","","","","$242.30"
